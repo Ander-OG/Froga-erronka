@@ -22,7 +22,7 @@ public class Aplikazioa {
             System.out.println("\nSaioa ondo hasi da! Zure rola: " + rol);
 
             switch (rol.toLowerCase()) {
-                case "kudeatzailea":
+                case "kudeatzailea"://jai
     	            menuKudeatzailea.kudeatzaileaMenua();
                     break;
                 case "enkargatua":
